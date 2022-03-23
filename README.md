@@ -14,5 +14,5 @@
 - [X] Aula 4 - GitHub primeiros Passos
 - [X] Aula 5 - Criando meu README
 
-\n :watch: Waiting for new class
+:watch: Waiting for new class
 

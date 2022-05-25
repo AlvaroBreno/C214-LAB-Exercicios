@@ -19,6 +19,10 @@
 # 👉 Descrição do Exercicio 7 e 8
 <p> Testes unitários e teste de mock </p>
 
+## 👉 Descrição do Exercicio 10
+<p> Testes de CI/CD no Git </p>
+[![Node.js CI](https://github.com/AlvaroBreno/C214-LAB-Exercicios/actions/workflows/nodeCI_Test.js.yml/badge.svg)](https://github.com/AlvaroBreno/C214-LAB-Exercicios/actions/workflows/nodeCI_Test.js.yml)
+
 ### :fire: O que ja foi feito? 
 - [ ] Aula 2 - JavaScript 
 - [X] Aula 3 - JSON
@@ -27,6 +31,7 @@
 - [X] Aula 6 - Criando Backend (Extra)
 - [X] Aula 7 - Testes Unitários
 - [X] Aula 8 - Teste Mock
+- [X] Aula 10 - Git Actions
 
 :watch: Waiting for new class
 

@@ -21,6 +21,7 @@
 
 ## 👉 Descrição do Exercicio 10
 <p> Testes de CI/CD no Git </p>
+
 [![Node.js CI](https://github.com/AlvaroBreno/C214-LAB-Exercicios/actions/workflows/nodeCI_Test.js.yml/badge.svg)](https://github.com/AlvaroBreno/C214-LAB-Exercicios/actions/workflows/nodeCI_Test.js.yml)
 
 ### :fire: O que ja foi feito? 

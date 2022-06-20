@@ -9,7 +9,7 @@ on:
    
 defaults:
   run:
-    working-directory: ./Codigo Aula 6/src/Test
+    working-directory: ./Códigos Aulas 8 e 9/Music_API/test
 
 jobs:
   build:
